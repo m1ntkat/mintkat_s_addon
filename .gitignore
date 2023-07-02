@@ -9,6 +9,8 @@
 obj/*
 Properties/*
 code/obj/*
+code/.vs/*
+code/.idea/*
 code/Properties/*
 
 # Auto-generated asset related files
